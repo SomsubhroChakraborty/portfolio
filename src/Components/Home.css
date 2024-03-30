@@ -1,0 +1,28 @@
+.Navbar {
+    display: flex;
+    /* background-color: black; */
+    margin-top: 10px;
+  }
+  .container h2 {
+    color: white;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-size: 40px;
+  }
+  .container p {
+    color: white;
+    margin-left: 150px;
+    /* margin-top: 50px; */
+    font-size: 40px;
+  }
+  .Navbar img {
+    margin-left: 120px;
+    margin-top: 90px;
+    border-radius: 360px;
+  }
+  .container {
+    margin-top: 30px;
+  }
+  .purple {
+    color: purple;
+  }

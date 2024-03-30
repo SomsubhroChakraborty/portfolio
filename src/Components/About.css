@@ -1,0 +1,52 @@
+.about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 10px;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 20px;
+  
+    /* border-radius: 10px; */
+  }
+  
+  .image-container {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+  }
+  
+  .profile-image {
+    width: 300px;
+    height: 300px;
+    margin-right: 170px;
+    border-radius: 20px;
+    border: 3px solid purple;
+  }
+  .purple {
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  .about h1 {
+    /* margin-left: 12px; */
+    font-size: 40px;
+  }
+  .about p {
+    font-size: 20px;
+    /* margin-top: 30px; */
+    /* font-size: px; */
+    padding: 5px;
+  }
+  .content p{
+    color: aliceblue;
+  }
+  .content h1{
+    color: aliceblue;
+  }
