@@ -16,7 +16,7 @@
     font-size: 40px;
   }
   .Navbar img {
-    margin-left: 120px;
+    margin-left: 100px;
     margin-top: 90px;
     border-radius: 360px;
   }
@@ -25,4 +25,10 @@
   }
   .purple {
     color: purple;
+  }
+  h5{
+    color:White;
+    font-size:30px ;
+    font-weight: lighter;
+    margin-left: 150px;
   }
